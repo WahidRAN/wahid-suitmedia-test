@@ -1,0 +1,47 @@
+:root {
+  /* Colors */
+
+  --primary-dark-blue: #003459;
+  --primary-dark-blue-40: #0078CD;
+  --primary-dark-blue-60: #0078CD;
+  --primary-dark-blue-80: #002A48;
+
+  --secondary-mon-yellow: #F7DBA7;
+  --secondary-mon-yellow-40: #FCEED5;
+  --secondary-mon-yellow-60: #F1D092;
+  --secondary-mon-yellow-80: #EEC77E;
+  
+  --state-pink-red: #FF564F;
+  --state-green-light: #34C759;
+  --state-orange-shine: #FF912C;
+  --state-blue-sea: #00A7E7;
+
+  --neutral-00: #FDFDFD;
+  --neutral-10: #EBEEEF;
+  --neutral-20: #CCD1D2;
+  --neutral-40: #99A2A5;
+  --neutral-60: #667479;
+  --neutral-80: #242B33;
+  --neutral-100: #00171F;
+
+  /* Typography */
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
