@@ -29,9 +29,6 @@
 
 * {
   box-sizing: border-box;
-}
-
-body {
   margin: 0;
 }
 
@@ -42,6 +39,28 @@ a {
 
 ul {
   list-style: none;
-  margin: 0;
   padding: 0;
+}
+
+.section-content-title {
+  font-family: sans-serif;
+  h3 {
+    font-size: 0.875rem;
+    font-weight: 500;
+    line-height: 1.5;
+    color: black;
+    margin-bottom: 2px;
+  }
+  h5 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 1.5;
+    color: var(--primary-dark-blue);
+  }
+}
+
+@media (min-width: 768px) {
+  .section-content-title {
+    flex-grow: 1;
+  }
 }

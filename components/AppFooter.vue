@@ -1,14 +1,10 @@
-<script setup lang="ts">
-import WranButton from "./Button.vue";
-</script>
-
 <template>
   <footer class="app-footer-wrapper">
     <div class="email-subscription-card">
       <h5>Register Now So You Don't Miss Our Programs</h5>
       <div class="email-subscription-form">
         <input type="text" placeholder="Enter your Email" />
-        <WranButton>Subscribe Now</WranButton>
+        <AtomButton>Subscribe Now</AtomButton>
       </div>
     </div>
     <div class="nav-social-container">
@@ -25,14 +21,20 @@ import WranButton from "./Button.vue";
         <img src="~/assets/icons/YouTube.svg" alt="YouTube icon" />
       </ul>
     </div>
-    <hr class="divider">
+    <hr class="divider" />
     <div class="footer-trademark-wrapper">
-      <img src="~/assets/logos/Monito.svg" alt="Monito logo" class="footer-logo">
+      <img
+        src="~/assets/logos/Monito.svg"
+        alt="Monito logo"
+        class="footer-logo"
+      />
       <ul class="terms-policy">
         <a href="#">Terms of Service</a>
         <a href="#">Privacy Policy</a>
       </ul>
-      <span class="trademark">© {{ new Date().getFullYear() }} Monito. All rights reserved.</span>
+      <span class="trademark"
+        >© {{ new Date().getFullYear() }} Monito. All rights reserved.</span
+      >
     </div>
   </footer>
 </template>
@@ -163,7 +165,7 @@ import WranButton from "./Button.vue";
     gap: 1.25rem;
     padding: 2rem;
     h5 {
-      width: 33%;
+      width: 30%;
       font-size: 1.5rem;
       line-height: 1.5;
     }

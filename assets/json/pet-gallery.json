@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "imgSrc": "MO231.png",
+    "title": "MO231 - Pomeranian White",
+    "gene": "Male",
+    "age": "02 Months",
+    "price": "6.900.000",
+    "currency": "VND"
+  },
+  {
+    "id": 2,
+    "imgSrc": "MO502.png",
+    "title": "MO502 - Poodle Tiny Yellow",
+    "gene": "Female",
+    "age": "02 Months",
+    "price": "3.900.000",
+    "currency": "VND"
+  },
+  {
+    "id": 3,
+    "imgSrc": "MO102.png",
+    "title": "MO102 - Poodle Tiny Sepia",
+    "gene": "Male",
+    "age": "02 Months",
+    "price": "4.000.000",
+    "currency": "VND"
+  },
+  {
+    "id": 4,
+    "imgSrc": "MO512.png",
+    "title": "MO512 - Alaskan Malamute Grey",
+    "gene": "Female",
+    "age": "03 Months",
+    "price": "8.900.000",
+    "currency": "VND"
+  },
+  {
+    "id": 5,
+    "imgSrc": "MO232.png",
+    "title": "MO232 - Pembroke Corgi Cream",
+    "gene": "Male",
+    "age": "03 Months",
+    "price": "7.900.000",
+    "currency": "VND"
+  },
+  {
+    "id": 6,
+    "imgSrc": "MO503.png",
+    "title": "MO503 - Pembroke Corgi Tricolor",
+    "gene": "Female",
+    "age": "02 Months",
+    "price": "6.900.000",
+    "currency": "VND"
+  },
+  {
+    "id": 7,
+    "imgSrc": "MO103.png",
+    "title": "MO103 - Pomeranian Grey",
+    "gene": "Female",
+    "age": "02 Months",
+    "price": "6.500.000",
+    "currency": "VND"
+  },
+  {
+    "id": 8,
+    "imgSrc": "MO513.png",
+    "title": "MO513 - Poodle Tiny Dairy Cow",
+    "gene": "Male",
+    "age": "03 Months",
+    "price": "5.000.000",
+    "currency": "VND"
+  }
+]
