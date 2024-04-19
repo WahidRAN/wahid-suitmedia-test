@@ -4,6 +4,9 @@ useHead({
   meta: [
     { name: 'description', content: 'This is test site for suitmedia, let me tell you all about it.' }
   ],
+  htmlAttrs: {
+    lang: 'en'
+  }
 })
 
 useSeoMeta({
